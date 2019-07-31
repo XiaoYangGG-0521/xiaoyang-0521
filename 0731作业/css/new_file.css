@@ -1,0 +1,128 @@
+* {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+body {
+	width: 100%;
+	height: 42.5rem;
+	background-image: url(../img/images/01.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+
+.div01 {
+	width: 100%;
+	height: 100%;
+	
+}
+.div03{
+	width:400px;
+	height:300px;
+	background: url(../img/images/uugai.com-1564579613877.png) no-repeat;
+	/* opacity:0.5; */
+	background-size: 400px 300px;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+.div02{
+	width: 28.125rem;
+	height: 17.5rem;
+	background-color: rgba(255, 255, 255, 0.7);
+	border:0.0625rem solid #FFFFFF;
+	border-radius: 2.5rem;
+	float: left;
+	margin-left: 34.5rem;
+}
+.div02 form{
+	width: 100%;
+	height: 100%;
+}
+.p01{
+	width: 100%;
+	height: 40px;
+	margin-top: 2.875rem;
+	float: left;
+}
+.p01 span{
+	float: left;
+	width: 3.125rem;
+	height: 1.875rem;
+	margin-top: 0.3125rem;
+	font-size: 1.125rem;
+	margin-left: 3.125rem;
+}
+.p01 input{
+	float: left;
+	width: 15.625rem;
+	height: 2.1875rem;
+	margin-left: 0.1875rem;
+	border-radius: 0.3125rem;
+	outline: none;
+	font-size: 0.875rem;
+	padding-left: 0.1875rem;
+}
+.p02{
+	width: 100%;
+	height: 3.125rem;
+	margin-top: 1.5rem;
+	float: left;
+}
+.p02 span{
+	float: left;
+	width: 3.125rem;
+	height: 1.875rem;
+	margin-top: 0.3125rem;
+	font-size: 1.125rem;
+	margin-left: 3.125rem;
+}
+.p02 input{
+	float: left;
+	width: 15.625rem;
+	height: 2.1875rem;
+	margin-left: 0.1875rem;
+	border-radius: 0.3125rem;
+	outline: none;
+	font-size: 0.875rem;
+	padding-left: 0.1875rem;
+}
+.p03{
+	width: 100%;
+	height: 1.25rem;
+	float: left;
+	font-size: 0.75rem;
+	margin-top: 1.25rem;
+}
+.p03 span:nth-child(1){
+	float: left;
+	width: 3.75rem;
+	height: 1.25rem;
+	margin-left: 3.125rem;
+}
+.p03 span:nth-child(2){
+	float: left;
+	width: 3.75rem;
+	height: 1.25rem;
+	margin-left: 12.875rem;
+}
+.p03 span:nth-child(1) a{
+	color: black;
+	text-decoration: none;
+}
+.p03 span:nth-child(2) a{
+	color: black;
+	text-decoration: none;
+}
+.input01{
+	width: 15rem;
+	height: 2.5rem;
+	border-radius: 0.4375rem;
+	background: dodgerblue;
+	outline: navajowhite;
+	margin-left: 5.8125rem;
+	font-size: 1rem;
+	color: #FFFFFF;
+	margin-top: 0.625rem;
+}
